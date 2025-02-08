@@ -1,2 +1,28 @@
-# GoogleForm-PowerBI-Dashboard
-"A Power BI dashboard visualizing data from Google Forms"
+# Google Form to Power BI Dashboard
+
+## Project Overview
+This project takes survey responses from Google Forms and visualizes the data using Power BI. It helps in analyzing trends, identifying key insights, and presenting data interactively.
+
+## Features
+- Data collection from Google Forms
+- Power BI data transformation using Power Query
+- Interactive visualizations for insights
+- Filters and slicers for better analysis
+
+## Installation & Usage
+1. Download the `classmates.pbix` file.
+2. Open it in **Microsoft Power BI Desktop**.
+3. Refresh the data if needed and interact with the dashboard.
+
+## Technologies Used
+- **Google Forms** – Data Collection
+- **Power BI** – Data Visualization
+- **DAX & Power Query** – Data Transformation
+
+## Preview
+(Screenshot of your dashboard – you can upload an image to GitHub)
+
+## Author
+- **Your Name**  
+- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)  
+- GitHub: [YourUsername](https://github.com/YourUsername)
