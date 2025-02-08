@@ -24,5 +24,5 @@ This project takes survey responses from Google Forms and visualizes the data us
 
 ## Author
 - **Your Name**  
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)  
-- GitHub: [YourUsername](https://github.com/YourUsername)
+- LinkedIn: [Sumanth B S](www.linkedin.com/in/sumanth-b-s)  
+- GitHub: [Sumanth B S](https://github.com/Sumanth-b-s)
