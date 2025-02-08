@@ -20,7 +20,7 @@ This project takes survey responses from Google Forms and visualizes the data us
 - **DAX & Power Query** – Data Transformation
 
 ## Google Form Fill link
-- <a href = https://docs.google.com/forms/d/e/1FAIpQLSf5EqtG0M7q8qierwxSMeGHP1QFFWOmlJWE8tRyDANOG1J-Cg/viewform?usp=header>Student form</a>
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLSf5EqtG0M7q8qierwxSMeGHP1QFFWOmlJWE8tRyDANOG1J-Cg/viewform?usp=header">Student form</a>
 
 ## Preview
 https://github.com/Sumanth-b-s/GoogleForm-PowerBI-Dashboard/blob/main/Screenshot%202025-02-08%20115919.png
