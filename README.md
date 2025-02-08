@@ -30,3 +30,6 @@ This project takes survey responses from Google Forms and visualizes the data us
 - **Your Name**  
 - LinkedIn: [Sumanth B S](www.linkedin.com/in/sumanth-b-s)  
 - GitHub: [Sumanth B S](https://github.com/Sumanth-b-s)
+
+### Download the Power BI File
+[Click here to download the file](https://github.com/Sumanth-b-s/Insurance-Insights-Dashboard/blob/main/NEW%20INSURENCE.pbix)
