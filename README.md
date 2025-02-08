@@ -24,6 +24,8 @@ This project takes survey responses from Google Forms and visualizes the data us
 
 ## Preview
 https://github.com/Sumanth-b-s/GoogleForm-PowerBI-Dashboard/blob/main/Screenshot%202025-02-08%20115919.png
+![Screenshot 2025-02-08 115919](https://github.com/user-attachments/assets/0e7a09d3-1d91-4f77-981a-8235324437e1)
+
 
 ## Author
 - **Your Name**  
