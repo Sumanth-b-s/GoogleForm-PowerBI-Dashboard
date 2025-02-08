@@ -33,3 +33,4 @@ This project takes survey responses from Google Forms and visualizes the data us
 
 ### Download the Power BI File
 [Click here to download the file](https://github.com/Sumanth-b-s/GoogleForm-PowerBI-Dashboard/blob/main/classmates.pbix)
+"C:\Users\SUMANTH B S\Downloads\classmates.pbix"
